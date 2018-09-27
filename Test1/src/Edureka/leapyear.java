@@ -13,7 +13,6 @@ public class leapyear {
 			 }
 			 else if(arr[i]%4==0) 
 				 System.out.println(arr[i]+ " is a non century leap year");
-				 
 			 else 
 				 System.out.println(arr[i]+ " is not a leap year");			  
 		 }
