@@ -15,8 +15,7 @@ public class leapyear {
 				 System.out.println(arr[i]+ " is a non century leap year");
 				 
 			 else 
-				 System.out.println(arr[i]+ " is not a leap year");
-				  
+				 System.out.println(arr[i]+ " is not a leap year");			  
 		 }
 		 
 	}
