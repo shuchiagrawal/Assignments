@@ -8,7 +8,8 @@ public class leapyear {
 		 
 		 for(int i=0;i<arr.length;i++)
 		 { 
-			 if( arr[i]%400==0) {
+			 if( arr[i]%400==0)
+			 {
 				 System.out.println(arr[i]+ " is a century leap year");
 			 }
 			 else if(arr[i]%4==0) 
